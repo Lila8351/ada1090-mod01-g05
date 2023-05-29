@@ -1,0 +1,18 @@
+x horizontal
+y vertical
+
+x ->
+x [0] = "o"
+x 
+
+Horizontal
+if x[0] e x[x-1] = "o"
+else = "|"
+    Sempre que existe x, existe y
+
+    *se y é 0, nada acontece
+    *se x é 0, nada acontece
+
+
+
+

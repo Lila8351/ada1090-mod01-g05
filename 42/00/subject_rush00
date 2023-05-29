@@ -1,0 +1,19 @@
+pt_char.c
+	instancia variaveis
+	  int x, y				/* instanciar != definir */
+/*	o resultado deve ser tambem instanciado                          */
+/*	ele sera resultado da funcao que calcula as coisas               */
+/*	Mas é dito no enunciado que a funcao de                          */
+/*	devolver na tela um resultado                                    */
+/*	esta na funcao rush00 - que é também responsável pelo cálculo.   */
+
+main.c
+	chama a funcao rush
+	faz os calculos necessários e retorna 0
+	é usada só pra executar de fato a funcao rush00
+	
+
+rush00.c
+	recebe os valores de input instanciados no pt_char.c
+	
+
